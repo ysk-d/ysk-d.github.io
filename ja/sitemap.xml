@@ -3,141 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ysk-d.github.io/blog/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ysk-d.github.io/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://ysk-d.github.io/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/categories/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ysk-d.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://ysk-d.github.io/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/tags/css/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ysk-d.github.io/en/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://ysk-d.github.io/tags/css/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/tags/html/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ysk-d.github.io/en/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://ysk-d.github.io/tags/html/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/tags/markdown/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ysk-d.github.io/en/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://ysk-d.github.io/tags/markdown/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/categories/markdown/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ysk-d.github.io/en/categories/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://ysk-d.github.io/categories/markdown/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/blog/template/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ysk-d.github.io/en/blog/template/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://ysk-d.github.io/blog/template/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/tags/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ysk-d.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://ysk-d.github.io/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ysk-d.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://ysk-d.github.io/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ysk-d.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -153,6 +18,20 @@
   </url>
   
   <url>
+    <loc>https://ysk-d.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ysk-d.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ysk-d.github.io/categories/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ysk-d.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -163,6 +42,34 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://ysk-d.github.io/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ysk-d.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ysk-d.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ysk-d.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ysk-d.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ysk-d.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ysk-d.github.io/"
                 />
   </url>
   
