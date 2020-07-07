@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ysk-d.github.io/blog/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ysk-d.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -23,11 +28,6 @@
   </url>
   
   <url>
-    <loc>https://ysk-d.github.io/blog/markdown-syntax.fr/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ysk-d.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
@@ -39,11 +39,6 @@
   
   <url>
     <loc>https://ysk-d.github.io/blog/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/blog/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,61 +88,12 @@
   </url>
   
   <url>
-    <loc>https://ysk-d.github.io/blog/rich-content.fr/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/blog/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/blog/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/blog/emoji-support.fr/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/blog/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ysk-d.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ysk-d.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/tags/index/</loc>
   </url>
   
 </urlset>
