@@ -5,11 +5,20 @@
     <link>https://ysk-d.github.io/tags/css/</link>
     <description>Recent content in css on ysk.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>ja</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ysk-d.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Guide de syntaxe de Markdown</title>
+      <link>https://ysk-d.github.io/blog/markdown-syntax.fr/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ysk-d.github.io/blog/markdown-syntax.fr/</guid>
+      <description>&lt;p&gt;Cet article propose un exemple de syntaxe de base de Markdown pouvant être utilisée dans les fichiers de contenu Hugo. Il indique également si les éléments HTML de base sont décorés avec CSS dans un thème Hugo.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
