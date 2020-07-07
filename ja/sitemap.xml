@@ -5,6 +5,16 @@
   <url>
     <loc>https://ysk-d.github.io/blog/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ysk-d.github.io/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ysk-d.github.io/blog/"
+                />
   </url>
   
   <url>
@@ -25,16 +35,46 @@
   <url>
     <loc>https://ysk-d.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ysk-d.github.io/en/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ysk-d.github.io/tags/css/"
+                />
   </url>
   
   <url>
     <loc>https://ysk-d.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ysk-d.github.io/en/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ysk-d.github.io/tags/html/"
+                />
   </url>
   
   <url>
     <loc>https://ysk-d.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ysk-d.github.io/en/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ysk-d.github.io/tags/markdown/"
+                />
   </url>
   
   <url>
@@ -45,6 +85,16 @@
   <url>
     <loc>https://ysk-d.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ysk-d.github.io/en/categories/syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ysk-d.github.io/categories/syntax/"
+                />
   </url>
   
   <url>
@@ -65,11 +115,31 @@
   <url>
     <loc>https://ysk-d.github.io/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ysk-d.github.io/en/tags/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ysk-d.github.io/tags/themes/"
+                />
   </url>
   
   <url>
     <loc>https://ysk-d.github.io/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ysk-d.github.io/en/categories/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ysk-d.github.io/categories/themes/"
+                />
   </url>
   
   <url>
@@ -90,10 +160,30 @@
   <url>
     <loc>https://ysk-d.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ysk-d.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ysk-d.github.io/about/"
+                />
   </url>
   
   <url>
     <loc>https://ysk-d.github.io/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ysk-d.github.io/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ysk-d.github.io/contact/"
+                />
   </url>
   
 </urlset>
