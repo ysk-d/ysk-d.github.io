@@ -78,6 +78,21 @@
   </url>
   
   <url>
+    <loc>https://ysk-d.github.io/en/categories/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ysk-d.github.io/categories/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ysk-d.github.io/en/categories/markdown/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ysk-d.github.io/en/blog/template/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -93,21 +108,6 @@
   </url>
   
   <url>
-    <loc>https://ysk-d.github.io/en/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://ysk-d.github.io/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ysk-d.github.io/en/categories/syntax/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ysk-d.github.io/en/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -119,36 +119,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ysk-d.github.io/en/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/en/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://ysk-d.github.io/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ysk-d.github.io/en/tags/themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ysk-d.github.io/en/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://ysk-d.github.io/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ysk-d.github.io/en/categories/themes/"
                 />
   </url>
   

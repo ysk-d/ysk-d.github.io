@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Markdown CheetSheet</title>
+      <title>Markdownチートシート</title>
       <link>https://ysk-d.github.io/blog/template/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ysk-d.github.io/blog/template/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <description>&lt;p&gt;この記事では、ブログ記載時のMarkdown記法をまとめております。&lt;/p&gt;</description>
     </item>
     
   </channel>
